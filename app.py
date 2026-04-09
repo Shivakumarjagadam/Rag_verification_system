@@ -179,7 +179,7 @@ def verify_claim(claim: str):
 # =========================
 
 st.title("🔍VeriSearch 2026:")
-st.subheader(" A Real-Time Fake News Verification System using RAG and LLMs")
+st.subheader("Real -Time Fact-checking Using Retrieval-Augmented Generation and Large Language Models")
 
 claim = st.text_area(
     label="Enter claim",
